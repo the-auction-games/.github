@@ -19,4 +19,4 @@ There are 4 microservices:
 Please view the repositories tab to view additional documentation per microservice.
 
 # Please Note
-The documentation and code base is still a under development. The project will be finished by April 2023.
+The documentation and code base is still under development. The project will be finished by April 2023.
