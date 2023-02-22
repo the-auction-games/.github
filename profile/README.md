@@ -11,7 +11,7 @@ Below is a list of tools and technologies used in the creation of this applicati
 - Amazon Web Services (AWS)
 
 # Microservices
-There are 4 microservices:
+There are 5 microservices:
 - User Validation Microservice (API for validating user accounts)
 - Auction Microservice (API for auction logic such as bidding)
 - Activity Microservice (API for logging and displaying application activity)
